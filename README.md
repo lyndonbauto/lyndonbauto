@@ -1,8 +1,10 @@
+[LinkedIn](https://www.linkedin.com/in/lyndon-bauto-752424b1/)
+
 I like working on things in the data space, specifically I am interested in Graph database work.
 
 I am a committer on Apache TinkerPop and most of my work lately has been on this project.
 
-I have worked with C++, Java, Python, and Golang. I have also spent a significant amount of time working in embedded systems and manufacturing automation systems.
+I have worked with C/C++, Java, Python, and Golang. I have also spent a significant amount of time working in embedded systems and manufacturing automation systems.
 
 Some open source projects I have contributed to:
 - [Apache TinkerPop](https://github.com/apache/tinkerpop)
