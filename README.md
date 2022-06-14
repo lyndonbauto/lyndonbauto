@@ -6,6 +6,8 @@ I am a committer on Apache TinkerPop and most of my work lately has been on this
 
 I have worked with C/C++, Java, Python, and Golang. I have also spent a significant amount of time working in embedded systems and manufacturing automation systems.
 
+Most recently I have joined Aerospike and am excited to be dropping some really cool technology with them sometime in the near future.
+
 Some open source projects I have contributed to:
 - [Apache TinkerPop](https://github.com/apache/tinkerpop)
   - [Gremlin-Python remote transaction support](https://github.com/apache/tinkerpop/pull/1515)
