@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/lyndon-bauto-752424b1/)
+[LinkedIn](https://www.linkedin.com/in/lyndonbauto/)
 
 I like working on things in the data space, specifically I am interested in Graph database work.
 
