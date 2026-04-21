@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/lyndonbauto/)
 
-I like working on things in the data space, specifically I am interested in Graph database work.
+I have been working in the dataspace for most of my career, specifically I am interested in Graph databases and the AI space.
 
 I am a committer on Apache TinkerPop and most of my work lately has been on this project.
 
