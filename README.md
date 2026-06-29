@@ -1,22 +1,36 @@
-[LinkedIn](https://www.linkedin.com/in/lyndonbauto/)
+# Hi, I'm Lyndon Bauto
 
-I have been working in the dataspace for most of my career, specifically I am interested in Graph databases and the AI space.
+**Manager, Software Engineering — AI Ecosystem** at [Aerospike](https://aerospike.com) · British Columbia, Canada
 
-I am a committer on Apache TinkerPop and most of my work lately has been on this project.
+I build production systems where **graph databases**, **real-time data**, and **agentic AI** meet — from Gremlin drivers and distributed graph engines to durable agent memory and LLM inference caching.
 
-I have worked with C/C++, Java, Python, and Golang. I have also spent a significant amount of time working in embedded systems and manufacturing automation systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lyndonbauto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyndonbauto/)
+[![Apache TinkerPop](https://img.shields.io/badge/Apache-TinkerPop%20Committer-DC382D?style=flat&logo=apache&logoColor=white)](https://tinkerpop.apache.org/)
 
-Recently I have been building [Aerospike Graph](https://docs.aerospike.com/graph/) with others at Aerospike. Check it out!
+---
 
-Some open source projects I have contributed to:
-- [Apache TinkerPop](https://github.com/apache/tinkerpop)
-  - [Gremlin-Python remote transaction support](https://github.com/apache/tinkerpop/pull/1515)
-  - [Gremlin-Python client transport layer using AIOHTTP](https://github.com/apache/tinkerpop/pull/1416)
-  - [Gremlin-Go](https://github.com/apache/tinkerpop/tree/master/gremlin-go)
-- [Apache Arrow Flight](https://github.com/apache/arrow)
-  - [C++ client cookie middleware](https://github.com/apache/arrow/pull/8725)
-  - [C++ header based authentication](https://github.com/apache/arrow/pull/8724)
-- [Amazon Neptune JDBC Driver](https://github.com/aws/amazon-neptune-jdbc-driver)
-- [Opendistro for Elasticsearch (ODFE) SQL Engine](https://github.com/opensearch-project/sql)
-  - [String functions (regex, substr, substring, ltrim, rtrim, trim, upper, lower, concat, concat_ws, length, strcmp)](https://github.com/opendistro-for-elasticsearch/sql/pull/750/files)
-  - [DATE_FORMAT function](https://github.com/opendistro-for-elasticsearch/sql/pull/764)
+## What I'm working on
+
+Most of my time goes into Aerospike's **AI ecosystem** — making Aerospike a first-class backing store for agents, LLMs, and graph workloads at scale.
+
+| Area | What |
+|------|------|
+| **Agent memory** | [adk-aerospike](https://github.com/aerospike-community/adk-aerospike) — session, memory, and artifact services for [Google ADK](https://google.github.io/adk-docs/), with overflow-driven idempotent segment storage for high-concurrency chat histories |
+| **LLM KV cache** | [lmcache-aerospike](https://github.com/aerospike-community/lmcache-aerospike) — native Aerospike L2 connector for [LMCache](https://github.com/LMCache/LMCache), including upstream `BUILD_AEROSPIKE` integration |
+| **Graph platform** | [Aerospike Graph Service](https://github.com/aerospike/aerospike-graph-service) — Apache TinkerPop–compliant distributed graph database on Aerospike |
+
+---
+
+## Background
+
+I've spent most of my career in the data space — graph databases, search/SQL engines, and cloud backends — with an earlier foundation in **firmware and embedded systems** (machine vision cameras, manufacturing automation).
+
+**Languages:** C · C++ · Java · Python · Go
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lyndonbauto/)
+- [Aerospike Graph Service](https://github.com/aerospike/aerospike-graph-service) · [docs](https://aerospike.com/docs/graph/)
+- [Apache TinkerPop](https://tinkerpop.apache.org/)
