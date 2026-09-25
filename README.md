@@ -1,17 +1,14 @@
-# Hi, I'm Lyndon Bauto
+I am the Engineering Manager of the AI Ecosystem team at [Aerospike](https://aerospike.com).
 
-**Manager, Software Engineering — AI Ecosystem** at [Aerospike](https://aerospike.com) · British Columbia, Canada
-
-I build production systems where **graph databases**, **real-time data**, and **agentic AI** meet — from Gremlin drivers and distributed graph engines to durable agent memory and LLM inference caching.
+I build production systems where graph databases, real-time data, and agentic AI meet — from Gremlin drivers and distributed graph engines to durable agent memory and LLM inference caching.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lyndonbauto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyndonbauto/)
-[![Apache TinkerPop](https://img.shields.io/badge/Apache-TinkerPop%20Committer-DC382D?style=flat&logo=apache&logoColor=white)](https://tinkerpop.apache.org/)
 
 ---
 
-## What I'm working on
+### What I'm working on
 
-Most of my time goes into Aerospike's **AI ecosystem** — making Aerospike a first-class backing store for agents, LLMs, and graph workloads at scale.
+Most of my time goes into Aerospike's **AI ecosystem**, making Aerospike a first-class backing store for agents, LLMs, and graph workloads at scale.
 
 | Area | What |
 |------|------|
@@ -21,16 +18,8 @@ Most of my time goes into Aerospike's **AI ecosystem** — making Aerospike a fi
 
 ---
 
-## Background
+### Background
 
-I've spent most of my career in the data space — graph databases, search/SQL engines, and cloud backends — with an earlier foundation in **firmware and embedded systems** (machine vision cameras, manufacturing automation).
+I've spent most of my career in the data space focused on graph databases, search, and other backend systems. I have an earlier foundation in firmware and embedded systems (machine vision cameras, manufacturing automation).
 
-**Languages:** C · C++ · Java · Python · Go
-
----
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/lyndonbauto/)
-- [Aerospike Graph Service](https://github.com/aerospike/aerospike-graph-service) · [docs](https://aerospike.com/docs/graph/)
-- [Apache TinkerPop](https://tinkerpop.apache.org/)
+**Languages:** C · C++ · Java · Python · Go <- Do these matter anymore??
